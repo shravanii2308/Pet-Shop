@@ -1,14 +1,6 @@
 #include <iostream>
 #include <string.h>
 using namespace std;
-// class dogs;
-/*
-class A {};
-
-class B : public dogs
-*/
-
-// int sum (int);
 class dogs 
 {
 public:
